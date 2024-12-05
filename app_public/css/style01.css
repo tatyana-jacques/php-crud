@@ -1,0 +1,13 @@
+#navbar{
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#navbar a{
+    width: 80px;
+    color: #444;
+}
+
+#navbar a:hover{
+    color: #C1B696;
+}
